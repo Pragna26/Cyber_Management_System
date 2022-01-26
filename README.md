@@ -1,2 +1,0 @@
-# Cyber_Management_System
-Cyber_Management_System
